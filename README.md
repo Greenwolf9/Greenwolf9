@@ -8,7 +8,7 @@ Hi there 👋
 
 :woman_technologist: About Me :
 
-I'm a TakingFirstSteps Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a takingFirstSteps Java Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I’m currently working on myself :brain:
 - 🌱 Learning Spring Security
 - 📫 How to reach me: mail me at santalova.ann@gmail.com
